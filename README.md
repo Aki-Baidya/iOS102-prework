@@ -6,7 +6,7 @@ This iOS application asks the user for their first and last name, school, and th
 
 ### App Walk-though
 
-<!-- <img src="https://github.com/Aki-Baidya/iOS102-prework/blob/main/walkthrough.gif" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+![App Walkthrough](https://github.com/Aki-Baidya/iOS102-prework/blob/main/walkthrough.gif)
 
 
 ### Required Features
